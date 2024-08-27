@@ -38,16 +38,21 @@ h2 {
   line-height: 3.6rem;
 }
 h3 {
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: 2.5rem;
+}
+h4 {
   font-size: 2rem;
   font-weight: 700;
   line-height: 2.4rem;
 }
-h4 {
+h5 {
   font-size: 1.75rem;
   font-weight: 900;
   line-height: 2.1rem;
 }
-h5 {
+h6 {
   font-size: 1.2rem;
   font-weight: 600;
   line-height: 1.4rem;
@@ -113,6 +118,7 @@ td {
 }
 .btn-red-orange {
   background-color: #e6533c;
+  border: none;
 }
 .btn-outlined {
   background-color: transparent;
